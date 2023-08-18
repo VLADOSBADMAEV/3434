@@ -170,4 +170,4 @@ print('но', 'писать','код', 'что-то', 'не очень.','Мож
 print('\nhello kak dela','vse horosho')
 
 
-print('hello')
+print('da')
