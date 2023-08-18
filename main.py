@@ -168,3 +168,6 @@ import hashlib
 print('Привет','мне','нравится','программирование', sep=";")
 print('но', 'писать','код', 'что-то', 'не очень.','Может поможешь',end='!')
 print('\nhello kak dela','vse horosho')
+
+
+print('hello')
