@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1033873d-e62c-4be0-b518-5f0d13488c3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-project/courses" beforeDir="false" afterPath="$PROJECT_DIR$/new-project/courses" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-project/courses/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/new-project/courses/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-project/courses/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/new-project/courses/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1033873d-e62c-4be0-b518-5f0d13488c3a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/new-project/courses" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2S0pOCaudCXapbVwfPUe2JRC6VZ" />
   <component name="ProjectViewState">
@@ -89,7 +84,7 @@
       <workItem from="1692302665835" duration="204000" />
       <workItem from="1692302879924" duration="2325000" />
       <workItem from="1692341779376" duration="3249000" />
-      <workItem from="1692632155669" duration="332000" />
+      <workItem from="1692632155669" duration="633000" />
     </task>
     <servers />
   </component>
